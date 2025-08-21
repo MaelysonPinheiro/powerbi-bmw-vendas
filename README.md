@@ -51,4 +51,4 @@ Este projeto foi criado com fins educacionais e para compor meu portfólio de an
 ## 👨‍💻 Autor
 
 Maelyson Machado Pinheiro  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/) *(edita aqui)*
+[LinkedIn](https://www.linkedin.com/in/maelyson-machado-pinheiro-551542211/) 
